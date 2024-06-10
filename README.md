@@ -34,7 +34,7 @@ To re-create the figure of Chapter 2 Figure 31:
 bash run.sh
 ```
 
-The figure is left in Chapter-2_Fig31.pdf
+The figure is left in IPCC_AR6_WGI_Figure_2_31a.pdf and IPCC_AR6_WGI_Figure_2_31b.pdf
 
 
 # Trend plots of Ocean Color for the IPCC report
@@ -48,4 +48,9 @@ The parallelized setup is based on a machine with at least 32GB RAM. Change the 
 ```
 >>> chl_analysis.process(islice=270)
 ```
+
+## Issue
+
+### 2024-06-10
+Figure (a)(b) seems same. But lacks figure (c) now.
 
