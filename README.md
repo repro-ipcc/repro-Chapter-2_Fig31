@@ -1,6 +1,10 @@
 # ipcc-ar6-wg1-figure Chapter 2 Figure 31
 
 
+| Input | Running | Output | Quality | Post-process |
+|-------|---------|--------|---------|--------------|
+| ![Code](https://img.shields.io/badge/Code-Complete-green) <br> ![Dependence](https://img.shields.io/badge/Dependence-Complete-green) <br> ![Data](https://img.shields.io/badge/Data-Complete-green) | ![Running](https://img.shields.io/badge/Running-green) | ![Full](https://img.shields.io/badge/2/3-Full-green) <br> ![Partial](https://img.shields.io/badge/0/3-Partial-orange) <br> ![Missing](https://img.shields.io/badge/1/3-Missing-red) | ![Same](https://img.shields.io/badge/2/2-Same-green) <br> ![Similar](https://img.shields.io/badge/0/2-Similar-orange) <br> ![Different](https://img.shields.io/badge/0/2-Different-red) | ![Auto](https://img.shields.io/badge/Auto-orange) ![Manual](https://img.shields.io/badge/Manual-orange) |
+
 
 Project to re-create the IPCC AR6 WG1 figures. See https://ipcc.ch and https://github.com/IPCC-WG1
 
